@@ -2,8 +2,4 @@ Cold and dry, but everything is my favorite color
 The two moons might be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 The sunrise is beautiful on Mars
-<<<<<<< HEAD
 But I do enjoy howling at moons! -wolfman
-=======
-This line added to Wolfman's copy
->>>>>>> 1718da94c720bb0e5472f7ab2657fc24ed4cdaf4
